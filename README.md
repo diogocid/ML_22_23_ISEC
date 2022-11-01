@@ -1,2 +1,2 @@
 # ML_22_23_ISEC
-Projeto para disciplina de Mestrado, Machine Learning.
+Project for Master's course, Machine Learning.
